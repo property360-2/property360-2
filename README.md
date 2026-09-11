@@ -11,11 +11,11 @@
   <img src="https://img.shields.io/badge/Available_for_Freelance-Available-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available" />
 </p>
 
-> **From construction sites to codebases — same principle: matibay na pundasyon.** I build durable, practical software that kills manual work and turns messy operations into systems people actually enjoy using.
+> **From construction sites to codebases — same principle: a strong foundation.** I build durable, practical software that eliminates manual work and turns messy operations into systems people actually enjoy using.
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/20/A67C52/user-male-circle.png" width="18" height="18" /> About Me
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="18" height="18" /> About Me
 
 **BS Information Systems** · **Bulacan, PH** · Remote & Hybrid
 
@@ -26,7 +26,7 @@ I spent years in labor and construction before moving into software — so I don
 - Workflow automation that saves hours every week
 - AI that actually helps — RAG, assistants, intelligent search
 
-**By the numbers:** `7 months` in an 8-person dev team (Richwell Colleges) · `3+ years` freelance (2022–2025) · `10+` shipped systems · `BSIS` · `7` client testimonials <img src="https://img.icons8.com/ios-filled/12/A67C52/star--v1.png" width="12" height="12" /><img src="https://img.icons8.com/ios-filled/12/A67C52/star--v1.png" width="12" height="12" /><img src="https://img.icons8.com/ios-filled/12/A67C52/star--v1.png" width="12" height="12" /><img src="https://img.icons8.com/ios-filled/12/A67C52/star--v1.png" width="12" height="12" /><img src="https://img.icons8.com/ios-filled/12/A67C52/star--v1.png" width="12" height="12" />
+**By the numbers:** `7 months` in an 8-person dev team (Richwell Colleges) · `3+ years` freelance (2022–2025) · `10+` shipped systems · `BSIS` · `7` client testimonials
 
 <p>
   <a href="https://property360-2.github.io/quick-portfolio/assets/Jun-Alvior.pdf"><img src="https://img.shields.io/badge/View_Resume-PDF-A67C52?style=flat&logo=readthedocs&logoColor=white" alt="Resume" /></a>
@@ -36,7 +36,7 @@ I spent years in labor and construction before moving into software — so I don
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/20/A67C52/services.png" width="18" height="18" /> What I Build
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/tools-16.svg" width="18" height="18" /> What I Build
 
 | Full-Stack Applications | Automation & Integrations | AI-Powered Systems |
 |---|---|---|
@@ -45,7 +45,7 @@ I spent years in labor and construction before moving into software — so I don
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/20/A67C52/toolbox.png" width="18" height="18" /> Technical Toolbox
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="18" height="18" /> Technical Toolbox
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -101,7 +101,7 @@ Methods:  Agile, Waterfall
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/20/A67C52/rocket.png" width="18" height="18" /> Featured Work — Flagships
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/rocket-16.svg" width="18" height="18" /> Featured Work — Flagships
 
 > *Problem → Outcome → Tech. Each project tied to a real business result.*
 
@@ -113,7 +113,7 @@ Methods:  Agile, Waterfall
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/20/A67C52/layers.png" width="18" height="18" /> More Projects (16 total)
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="18" height="18" /> More Projects (16 total)
 
 | Project | What it does | Tech |
 |---|---|---|
@@ -132,7 +132,7 @@ Browse all → **[property360-2.github.io/quick-portfolio/portfolio](https://pro
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/20/A67C52/briefcase.png" width="18" height="18" /> Experience
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" width="18" height="18" /> Experience
 
 **Full Stack / Automation Developer — Richwell Colleges Incorporated** · *8-person dev team · Oct 2025 – May 2026 · 7 months*
 - Built & maintained full-stack apps supporting org workflows
@@ -149,7 +149,7 @@ Browse all → **[property360-2.github.io/quick-portfolio/portfolio](https://pro
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/20/A67C52/handshake.png" width="18" height="18" /> Trusted by Clients — 7 Testimonials
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/people-16.svg" width="18" height="18" /> Trusted by Clients — 7 Testimonials
 
 > *Real businesses, real outcomes:*
 
@@ -164,12 +164,12 @@ Browse all → **[property360-2.github.io/quick-portfolio/portfolio](https://pro
 → Full stories: [Testimonials](https://property360-2.github.io/quick-portfolio/testimonials/)
 
 <p>
-  <img src="https://img.icons8.com/ios-filled/20/A67C52/conference.png" width="16" height="16" /> <i>Client logos: FCJ Barihan · Cafe Kantina · Dream Salon — featured on homepage</i>
+  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/organization-16.svg" width="16" height="16" /> <i>Client logos: FCJ Barihan · Cafe Kantina · Dream Salon — featured on homepage</i>
 </p>
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/20/A67C52/combo-chart.png" width="18" height="18" /> GitHub Stats
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-16.svg" width="18" height="18" /> GitHub Stats
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=property360-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a1a&title_color=A67C52&icon_color=A67C52&text_color=c9c9c9" alt="stats" />
@@ -189,14 +189,14 @@ Browse all → **[property360-2.github.io/quick-portfolio/portfolio](https://pro
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/20/A67C52/secured-letter.png" width="18" height="18" /> Let's Build Something Useful
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mail-16.svg" width="18" height="18" /> Let's Build Something Useful
 
 Open to **full-time roles, freelance, and collaborations**. Tell me the workflow you want to simplify.
 
-- <img src="https://img.icons8.com/ios-filled/16/A67C52/secured-letter.png" width="14" height="14" /> **Email:** [junalvior.dev@gmail.com](mailto:junalvior.dev@gmail.com)
-- <img src="https://img.icons8.com/ios-filled/16/A67C52/domain.png" width="14" height="14" /> **Portfolio:** [property360-2.github.io/quick-portfolio](https://property360-2.github.io/quick-portfolio/)
-- <img src="https://img.icons8.com/ios-filled/16/A67C52/linkedin.png" width="14" height="14" /> **LinkedIn:** [linkedin.com/in/dionisio-jun-alvior](https://www.linkedin.com/in/dionisio-jun-alvior-732987364/)
-- <img src="https://img.icons8.com/ios-filled/16/A67C52/marker.png" width="14" height="14" /> **Location:** Bulacan, PH — Remote worldwide
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mail-16.svg" width="14" height="14" /> **Email:** [junalvior.dev@gmail.com](mailto:junalvior.dev@gmail.com)
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/globe-16.svg" width="14" height="14" /> **Portfolio:** [property360-2.github.io/quick-portfolio](https://property360-2.github.io/quick-portfolio/)
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/link-16.svg" width="14" height="14" /> **LinkedIn:** [linkedin.com/in/dionisio-jun-alvior](https://www.linkedin.com/in/dionisio-jun-alvior-732987364/)
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/location-16.svg" width="14" height="14" /> **Location:** Bulacan, PH — Remote worldwide
 
 <p>
   <a href="mailto:junalvior.dev@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Email_Me-A67C52?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -206,7 +206,7 @@ Open to **full-time roles, freelance, and collaborations**. Tell me the workflow
 ---
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/16/A67C52/like.png" width="14" height="14" /> <i>"Gawang matibay — code na maaasahan, parang pundasyong hindi bumibigay."</i><br/>
+  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/heart-16.svg" width="14" height="14" /> <i>"Built to last — reliable code on a solid foundation."</i><br/>
   <sub>Built by Jun Alvior · Astro 6 + Tailwind 4 · Last updated 2025</sub>
 </p>
 
